@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-welcome
-=======
-welcome
->>>>>>> ab27c75110fbdc75599244d27fa8ff5db206cf86
+
